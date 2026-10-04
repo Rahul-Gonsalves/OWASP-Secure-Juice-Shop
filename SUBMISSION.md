@@ -1,6 +1,6 @@
 # CSCE477 HW2-B — Submission
 
-GitHub repo: **<PASTE YOUR PUBLIC REPO URL HERE>**
+GitHub repo: **https://github.com/Rahul-Gonsalves/OWASP-Secure-Juice-Shop**
 
 ---
 
